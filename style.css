@@ -1,0 +1,19 @@
+body{
+    margin-top: 15rem;
+    background-color: rgb(148, 74, 74);
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+h2, h4{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
